@@ -48,7 +48,11 @@ Este curso proporciona una introducción comprensiva a la programación en Pytho
 - Buenas prácticas en manejo de errores
 - **Proyecto**: Validador robusto de datos de usuario
 
-### Semana 4: Librerías
+### Semana 4: Colecciones, Librerías
+- Introducción a las Colecciones
+- Listas
+- Tuplas
+- Diccionarios
 - Módulos y paquetes
 - Importación de módulos: `import`
 - Importación selectiva: `from ... import ...`
